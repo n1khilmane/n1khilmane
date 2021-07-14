@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Nikhil 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nikhilmane.com)
+[![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/n1khilmane)
 
 ## I'm a Developer, Photographer, Videographer, and Adventure Sports enthusiast!!
