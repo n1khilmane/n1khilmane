@@ -115,6 +115,9 @@ END_SECTION:activity-->
 
 <p align="left"> <a href="https://twitter.com/n1khilmane" target="blank"><img src="https://img.shields.io/twitter/follow/n1khilmane?logo=twitter&style=for-the-badge" alt="n1khilmane" /></a> </p>-->
 
+[![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/n1khilmane)
+
 
 - 👨‍💻 All of my projects are available at [nikhilmane.com](nikhilmane.com)
 
@@ -147,6 +150,12 @@ END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1khilmane&" alt="n1khilmane" /></p>
 
+[website]: https://nikhilmane.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/n1khilmane
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/n1khilmane
+[linkedin]: https://linkedin.com/in/mane-nikhil 
 
 
 
