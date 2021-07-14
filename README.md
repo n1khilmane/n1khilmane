@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, Photographer, Videographer, and Adventure Sports enthusiast!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my website: [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
