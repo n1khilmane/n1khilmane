@@ -109,13 +109,12 @@ END_SECTION:activity-->
 <h1 align="center">Hi 👋, I'm Nikhil Mane</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1khilmane&label=Profile%20views&color=0e75b6&style=flat" alt="n1khilmane" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1khilmane&label=Profile%20views&color=0e75b6&style=flat" alt="n1khilmane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1khilmane" alt="n1khilmane" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/n1khilmane" target="blank"><img src="https://img.shields.io/twitter/follow/n1khilmane?logo=twitter&style=for-the-badge" alt="n1khilmane" /></a> </p>
-[![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
-[website]: https://nikhilmane.com
+<p align="left"> <a href="https://twitter.com/n1khilmane" target="blank"><img src="https://img.shields.io/twitter/follow/n1khilmane?logo=twitter&style=for-the-badge" alt="n1khilmane" /></a> </p>-->
+
 
 - 👨‍💻 All of my projects are available at [nikhilmane.com](nikhilmane.com)
 
