@@ -107,7 +107,7 @@ END_SECTION:activity-->
 [linkedin]: https://linkedin.com/in/mane-nikhil -->
 
 <h1 align="center">Hi 👋, I'm Nikhil Mane</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">I'm a Developer, Photographer, Videographer and Adventure Sports enthusiast!!</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1khilmane&label=Profile%20views&color=0e75b6&style=flat" alt="n1khilmane" /> </p>
 
@@ -118,12 +118,19 @@ END_SECTION:activity-->
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/n1khilmane)
 
+- 🔭 I just launched my website: [Portfolio][website]!
 
-- 👨‍💻 All of my projects are available at [nikhilmane.com](nikhilmane.com)
+- 🌱 I’m currently learning everything 🤣
+
+- 👯 I’m looking to collaborate with other content creators
+
+- 🥅 2021 Goals: Contribute more to Open Source projects
+-
+- ⚡ Fun fact: I love to click pictures and play guitar.
 
 - 📫 How to reach me **nikhilmane1919@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
