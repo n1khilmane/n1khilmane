@@ -125,7 +125,7 @@ END_SECTION:activity-->
 - 👯 I’m looking to collaborate with other content creators
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
--
+
 - ⚡ Fun fact: I love to click pictures and play guitar.
 
 - 📫 How to reach me **nikhilmane1919@gmail.com**
