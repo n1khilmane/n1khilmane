@@ -134,6 +134,7 @@ END_SECTION:activity-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+📄 My Journey to New York City [Blogpost](https://medium.com/@n1khilmane/my-journey-to-the-new-york-city-60c918f159e4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
