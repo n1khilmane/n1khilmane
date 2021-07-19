@@ -132,9 +132,12 @@ END_SECTION:activity-->
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)
 
-### Blogs posts
+### Blogs posts 📄 
 <!-- BLOG-POST-LIST:START -->
-📄 My Journey to New York City [Blogpost](https://medium.com/@n1khilmane/my-journey-to-the-new-york-city-60c918f159e4)
+- My Journey to New York City [Blogpost](https://medium.com/@n1khilmane/my-journey-to-the-new-york-city-60c918f159e4)
+- Genetic Programming [Blogpost](https://medium.com/@n1khilmane/genetic-programming-c65362433a68)
+- Football [Blogpost](https://medium.com/@n1khilmane/my-football-journey-3fa77956df18)
+- Hackathons [Blogpost](https://medium.com/@n1khilmane/hackathons-547539b5f4dd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
