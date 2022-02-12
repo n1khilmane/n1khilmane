@@ -130,7 +130,7 @@ END_SECTION:activity-->
 
 - 📫 How to reach me **nikhilmane1919@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)
+<!-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)-->
 
 ### Blogs posts 📄 
 <!-- BLOG-POST-LIST:START -->
