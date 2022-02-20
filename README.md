@@ -124,7 +124,7 @@ END_SECTION:activity-->
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Get a job in FAANG
 
 - ⚡ Fun fact: I love to click pictures and play guitar.
 
