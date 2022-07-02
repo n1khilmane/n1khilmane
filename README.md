@@ -118,7 +118,7 @@ END_SECTION:activity-->
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/n1khilmane)
 
-- 🔭 I just launched my website: [Portfolio][website]!
+<!--- 🔭 I just launched my website: [Portfolio][website]!-->
 
 - 🌱 I’m currently learning everything 🤣
 
@@ -128,12 +128,14 @@ END_SECTION:activity-->
 
 - ⚡ Fun fact: I love to click pictures and play guitar.
 
-- 📫 How to reach me **nikhilmane1919@gmail.com**
+- 📫 How to reach me **nikhilmane@nyu.edu**
 
 <!-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)-->
 
 ### Blogs posts 📄 
 <!-- BLOG-POST-LIST:START -->
+- How does Twitter store 200 billion tweets a year? [Blogpost](https://nikhil-mane.hashnode.dev/how-does-twitter-store-200-billion-tweets-a-year)
+- Do you know how Linkedin rebuilt its Monolith Messaging platform? [Blogpost](https://nikhil-mane.hashnode.dev/do-you-know-how-linkedin-rebuilt-its-monolith-messaging-platform)
 - My Journey to New York City [Blogpost](https://medium.com/@n1khilmane/my-journey-to-the-new-york-city-60c918f159e4)
 - Genetic Programming [Blogpost](https://medium.com/@n1khilmane/genetic-programming-c65362433a68)
 - Football [Blogpost](https://medium.com/@n1khilmane/my-football-journey-3fa77956df18)
