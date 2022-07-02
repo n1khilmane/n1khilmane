@@ -124,7 +124,7 @@ END_SECTION:activity-->
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2022 Goals: Get a job in FAANG
+- 🥅 2022 Goals: Travel
 
 - ⚡ Fun fact: I love to click pictures and play guitar.
 
