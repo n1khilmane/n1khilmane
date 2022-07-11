@@ -122,7 +122,7 @@ END_SECTION:activity-->
 
 - 🌱 I’m currently learning everything 🤣
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators.
 
 - 🥅 2022 Goals: Looking for fulltime opportunities starting from May 2023
 
