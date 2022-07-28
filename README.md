@@ -124,7 +124,7 @@ END_SECTION:activity-->
 
 - 👯 I’m looking to collaborate with other content creators.
 
-- 🥅 2022 Goals: Looking for fulltime opportunities starting from May 2023
+- 🥅 2022 Goals: Looking for fulltime opportunities starting from May 2023 as SDE/SWE
 
 - ⚡ Fun fact: I love to click pictures and play guitar.
 
