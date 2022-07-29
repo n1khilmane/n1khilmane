@@ -126,7 +126,7 @@ END_SECTION:activity-->
 
 - 🥅 2022 Goals: Looking for fulltime opportunities starting from May 2023 as SDE/SWE
 
-- ⚡ Fun fact: I love to click pictures and play guitar.
+- ⚡ Fun fact: I love to click pictures and travel
 
 - 📫 How to reach me **nikhilmane@nyu.edu**
 
