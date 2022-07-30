@@ -107,7 +107,7 @@ END_SECTION:activity-->
 [linkedin]: https://linkedin.com/in/mane-nikhil -->
 
 <h1 align="center">Hi 👋, I'm Nikhil Mane</h1>
-<h3 align="center">I'm a Developer, Photographer, Videographer and Adventure Sports enthusiast!!</h3>
+<h3 align="center">I'm a Developer, Photographer, and Adventure Sports enthusiast!!</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1khilmane&label=Profile%20views&color=0e75b6&style=flat" alt="n1khilmane" /> </p>
 
