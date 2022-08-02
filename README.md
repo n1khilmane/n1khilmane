@@ -124,13 +124,13 @@ END_SECTION:activity-->
 
 - 👯 I’m looking to collaborate with other content creators.
 
-- 🥅 2022 Goals: Looking for fulltime opportunities starting from May 2023 as SDE/SWE
+- 🥅 2022 Goals: Looking for full-time opportunities starting from May 2023 as SDE/SWE
 
 - ⚡ Fun fact: I love to click pictures and travel
 
 - 📫 How to reach me **nikhilmane@nyu.edu**
 
-<!-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ik4afPuYXHS6RahNQyXgYWil89CKQsEl/view)-->
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fx6PyVOn4Vmt6jEB8xtabt16aaltU9OI/view?usp=sharing)
 
 ### Blogs posts 📄 
 <!-- BLOG-POST-LIST:START -->
