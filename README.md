@@ -142,6 +142,8 @@ END_SECTION:activity-->
 - Hackathons [Blogpost](https://medium.com/@n1khilmane/hackathons-547539b5f4dd)
 <!-- BLOG-POST-LIST:END -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1khilmane&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="n1khilmane" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://dev.to/nikhilmane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilmane" height="30" width="40" /></a>-->
@@ -160,7 +162,9 @@ END_SECTION:activity-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1khilmane&show_icons=true&locale=en" alt="n1khilmane" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1khilmane&" alt="n1khilmane" /></p>
+
+
+
 
 [website]: https://nikhilmane.com
 [course]: http://vsCodeHero.com
