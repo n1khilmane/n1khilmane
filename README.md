@@ -124,7 +124,7 @@ END_SECTION:activity-->
 
 - 👯 I’m looking to collaborate with other content creators.
 
-- 🥅 2023 Goals: Looking for full-time opportunities starting from May 2023 as SDE/SWE, Data Engineer, Analyst.
+- 🥅 2023 Goals: Enhance my skills !
 
 - ⚡ Fun fact: I love to click pictures, make videos and travel
 
